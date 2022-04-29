@@ -1,0 +1,6 @@
+package com.infosys;
+class Parent {
+public static void main(String[] args){
+System.out.println("HelloWorld");
+}
+}
